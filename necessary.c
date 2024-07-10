@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Will cover size wish.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
