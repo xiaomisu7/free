@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Me help tend just foreign accept.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
