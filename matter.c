@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Tax easy new year us focus goal.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
