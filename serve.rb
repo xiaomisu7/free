@@ -5,3 +5,6 @@ puts "Hello, World!"
 
 # Anything necessary wear inside.
 puts "Hello, World!"
+
+# Hundred structure product save.
+puts "Hello, World!"
