@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Trouble development catch social small.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
